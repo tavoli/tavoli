@@ -4,7 +4,6 @@ Hi 👋 My name is Gustavo Jonathan
 Front end Developer
 -------------------
 
-* 🌍  I'm based in São Paulo, BR
 * ✉️  You can contact me at [gustavojnt@gmail.com](mailto:gustavojnt@gmail.com)
 * 🚀  I'm currently working as [Frellancer](http://bossabox.com/)
 * 🧠  I'm learning Data Structures and Algorithms
