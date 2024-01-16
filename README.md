@@ -8,6 +8,7 @@ Front end Developer
 * 🚀  I'm currently working as [Frellancer](http://bossabox.com/)
 * 🧠  I'm learning Discrete Mathematic
 * 🧠  I'm learning Data Structures and Algorithms
+* 🧠  I'm learning Nuxt.js
 * 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer
 
 ### Skills
