@@ -1,4 +1,4 @@
-Hi 👋 My name is Gustavo Jonathan
+Hi 👋 My name is Gustavo Lima, but you can call me Lima.
 ========================
 
 Front end Developer
