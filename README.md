@@ -5,8 +5,8 @@ Front end Developer
 -------------------
 
 * ✉️  You can contact me at [gustavojnt@gmail.com](mailto:gustavojnt@gmail.com)
-* 🧠  I'm learning Discrete Mathematic
-* 🧠  Sharping Data Structures and Algorithms skills
+* 🦀  I'm learning Rust language
+* 🧠  Sharpening Data Structures and Algorithms skills
 
 ### Skills
 
